@@ -43,13 +43,7 @@ delta-lake-assignment/
 │   └── delta_scd_assignment.ipynb
 │
 ├── screenshots/
-│   ├── data_loading/
-│   ├── data_cleaning/
-│   ├── updates/
-│   ├── incremental/
-│   ├── merge/
-│   └── final_output/
-│
+│   ├── Screenshots.pdf
 ├── report/
 │   └── Delta_Lake_Assignment_Report.pdf
 │
@@ -124,7 +118,7 @@ After executing the MERGE operation:
 
 ## 👨‍💻 Author
 
-**Keshav Sharma**
+**Keshav kumar Sharma**
 
 B.Tech Computer Science Engineering
 

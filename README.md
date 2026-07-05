@@ -44,6 +44,7 @@ delta-lake-assignment/
 │
 ├── screenshots/
 │   ├── Screenshots.pdf
+
 ├── report/
 │   └── Delta_Lake_Assignment_Report.pdf
 │
